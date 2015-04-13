@@ -2323,7 +2323,6 @@ deutsche\-welle\.de/.*
 dabr\.mobi/.*
 catch22\.net/.*
 digitalnomadsproject\.org/.*
-github\.com/.*
 blogspot\.de/.*
 pcdvd\.com\.tw/.*
 getyouram\.com/.*
